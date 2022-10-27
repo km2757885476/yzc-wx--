@@ -1,0 +1,11 @@
+{
+    "configData": {
+        "id": 1,
+        "consignee": "望海路X号"
+    },
+    "activityData": [{
+        "id": 9,
+        "title": "水果生鲜",
+        "image_src": "https://img1.baidu.com/it/u=1539072171,241660001&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=382"
+    }]
+}
